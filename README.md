@@ -29,7 +29,8 @@ career-prep-ai/
 ├── run.py                 
 ├── requirements.txt       
 ├── requirements.system    
-└── output/               
+└── output/    
+
     ├── interview_questions.pdf
     └── skill_gap_analysis.pdf
 
