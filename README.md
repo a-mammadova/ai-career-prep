@@ -1,29 +1,29 @@
 # AI Career Prep
-Career Prep AI is a powerful widget that transforms how job seekers prepare for interviews. Upload your CV and a job description, and get AI-generated interview questions with professional answers, plus a detailed skill gap analysis - all in professional PDF format.
+ai career prep is a nice widget that helps you prepare for interviews. upload your CV and a job description and get interview questions with answers, plus a detailed skill gap analysis.
 
-# Features
-### Interview Q&A Generator
+# features
+### interview q&a generator
 
--> Choose the number of questions (5-10) based on your needs
+-> choose the number of questions (5-10)
 
--> Customized for Entry, Mid, Senior, or Executive level position
+-> customize for entry, mid, senior or executive level
     
-### Skill Gap Analyzer
+### skill gap analyzer
 
--> Spot missing qualifications and experience requirements
+-> detect missing qualifications and requirements
 
--> Detailed comparison between your CV and job requirements
+-> detailed comparison between your CV and job requirements
 
-# Technical
-Backend: Python 
+# technical
+backend: python 
 
-AI Integration: OpenAI GPT-4o mini
+ai Integration: OpenAI GPT-4o mini
 
-PDF Processing: pdfplumber, reportlab
+pdf processing: pdfplumber, reportlab
 
-Platform: Abyss AI Widgets
+platform: abyss ai widgets
 
-# Project structure
+# project structure
 career-prep-ai/
 ├── run.py                 
 ├── requirements.txt       
