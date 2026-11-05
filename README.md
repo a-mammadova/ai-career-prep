@@ -25,6 +25,7 @@ platform: abyss ai widgets
 
 # project structure
 career-prep-ai/
+
 ├── run.py                 
 ├── requirements.txt       
 ├── requirements.system    
@@ -32,5 +33,4 @@ career-prep-ai/
     ├── interview_questions.pdf
     └── skill_gap_analysis.pdf
 
-# Try it(or don't)
-https://abysshub.com/widgets/290/ai-career-preparation
+check widget [here](https://abysshub.com/widgets/290/ai-career-preparation)
